@@ -4,8 +4,8 @@
 
 
 ## install
-cd ./Application
-npm install
+### cd ./Application
+### npm install
 
 ## run
 node ./app.js
